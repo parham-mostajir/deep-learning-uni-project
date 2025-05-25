@@ -1,2 +1,2 @@
 # deep-learning-uni-project
-deep learning uni project for rnn and transformer
+deep learning uni project about rnn and transformer
