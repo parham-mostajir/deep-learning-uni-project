@@ -9,14 +9,3 @@ A recurrent neural network (RNN) is a class of artificial neural networks where 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Recurrent_neural_network_unfold.svg/1920px-Recurrent_neural_network_unfold.svg.png"/>
 
-## Long Short Term Memory (LSTM)
-Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
-
-<img src="https://colah.github.io/images/post-covers/lstm.png"/>
-
-<h2>Improvements</h2>
-<ul>
-  <li>Working on improving standards on dataset.</li>
-  <li>Working on better architecture.</li>
-  <li>Training done on smaller database use limitation on Google Colab.</li>
-</ul>
